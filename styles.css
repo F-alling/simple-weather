@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.weather-app {
+  max-width: 400px;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #ff8c00;
+  color: #fff;
+  cursor: pointer;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
